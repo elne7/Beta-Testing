@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750515816652",
+    "project_id": "beta-testing-cc180",
+    "storage_bucket": "beta-testing-cc180.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750515816652:android:062a0b5048eee2055cda69",
+        "android_client_info": {
+          "package_name": "com.example.beta_testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1q3oqflvxRY3czm5pNOQt7CwEHhNTR4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
