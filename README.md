@@ -1,16 +1,11 @@
 # beta_testing
 
-A new Flutter project.
+A new Flutter task to test the beta version of the app.
 
-## Getting Started
+## Steps
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Created a new Flutter project.
+- Created a new project on Firebase Console called `beta testing`.
+- Configured the Firebase project in the Flutter project.
+- Added `App Distribution` testing on Firebase.
+- Added two testers to the project.
